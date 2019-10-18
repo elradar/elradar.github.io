@@ -6,10 +6,29 @@
     <description>Recent content in Posts on El Radar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EPH</title>
+      <link>/2019/10/18/natsu-eph/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/18/natsu-eph/</guid>
+      <description>Presentación En este informe se presentan una serie de indicadores sociales, desagregados por sexo, calculados con bases públicas de la EPH (Encuesta Permanente de Hogares - INDEC - Argentina). El objetivo de esta presentación es visibilizar la desigualdad de género en la composición del mercado de trabajo, la percepción de ingresos, entre otras cuestiones, en un formato amigable.
+Quienes estén interesados en reproducir los cálculos necesarios para obtener la información que aquí se presenta, pueden descargar la sintaxis en lenguaje R.</description>
+    </item>
+    
+    <item>
+      <title>Probando nomas</title>
+      <link>/2019/10/18/probando-nomas/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/18/probando-nomas/</guid>
+      <description> un ggplot clasico library(ggplot2)  ggplot(diamonds) + geom_jitter(aes(x = carat, y = cut, color = price)) + scale_color_viridis_c(option = &amp;quot;inferno&amp;quot;)  y otro con fondo blanco ggplot(diamonds) + geom_jitter(aes(x = carat, y = cut, color = price)) + scale_color_viridis_c(option = &amp;quot;inferno&amp;quot;) + theme_void()  </description>
+    </item>
     
     <item>
       <title>Nuestro dataset favorito</title>
@@ -17,8 +36,8 @@
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/10/17/nuestro-dataset-favorito/</guid>
-      <description>Nos encanta..este dataset!
-swiss## Fertility Agriculture Examination Education Catholic## Courtelary 80.2 17.0 15 12 9.96## Delemont 83.1 45.1 6 9 84.84## Franches-Mnt 92.5 39.7 5 5 93.40## Moutier 85.8 36.5 12 7 33.77## Neuveville 76.9 43.5 17 15 5.16## Porrentruy 76.1 35.3 9 7 90.57## Broye 83.8 70.2 16 7 92.85## Glane 92.4 67.8 14 8 97.16## Gruyere 82.</description>
+      <description>Nos encanta.. este dataset!
+swiss ## Fertility Agriculture Examination Education Catholic ## Courtelary 80.2 17.0 15 12 9.96 ## Delemont 83.1 45.1 6 9 84.84 ## Franches-Mnt 92.5 39.7 5 5 93.40 ## Moutier 85.8 36.5 12 7 33.77 ## Neuveville 76.9 43.5 17 15 5.16 ## Porrentruy 76.1 35.3 9 7 90.57 ## Broye 83.8 70.2 16 7 92.85 ## Glane 92.4 67.8 14 8 97.16 ## Gruyere 82.</description>
     </item>
     
     <item>
@@ -37,9 +56,9 @@ swiss## Fertility Agriculture Examination Education Catholic## Courtelary 80.2
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/2015/07/23/hello-r-markdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
     <item>
