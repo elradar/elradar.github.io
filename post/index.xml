@@ -18,17 +18,7 @@
       <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/10/18/otro-post-con-un-cl%C3%A1sico-inolvidable/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
-    </item>
-    
-    <item>
-      <title>Probando nomas</title>
-      <link>/2019/10/18/probando-nomas/</link>
-      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/10/18/probando-nomas/</guid>
-      <description> un ggplot clasico library(ggplot2)  ggplot(diamonds) + geom_jitter(aes(x = carat, y = cut, color = price)) + scale_color_viridis_c(option = &amp;quot;inferno&amp;quot;)  y otro con fondo blanco ggplot(diamonds) + geom_jitter(aes(x = carat, y = cut, color = price)) + scale_color_viridis_c(option = &amp;quot;inferno&amp;quot;) + theme_void()  </description>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.</description>
     </item>
     
   </channel>
