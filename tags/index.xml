@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <copyright>equipo el radaR</copyright>
-    <lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>educación</title>
+      <link>/tags/educaci%C3%B3n/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/educaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inequidad</title>
+      <link>/tags/inequidad/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/inequidad/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EPH</title>
@@ -27,15 +45,6 @@
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/genero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>inequidad</title>
-      <link>/tags/inequidad/</link>
-      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/inequidad/</guid>
       <description></description>
     </item>
     

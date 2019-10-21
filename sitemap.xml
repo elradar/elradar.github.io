@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/autores/</loc>
-    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+    <loc>/tags/educaci%C3%B3n/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/inequidad/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/reporte/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/10/21/existen-suficientes-vacantes-escolares-para-los-ni%C3%B1os-de-la-villa-21-24/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/autores/</loc>
     <lastmod>2019-10-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,22 +63,7 @@
   </url>
   
   <url>
-    <loc>/tags/inequidad/</loc>
-    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/proyectos/</loc>
-    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-10-20T00:00:00+00:00</lastmod>
   </url>
   
