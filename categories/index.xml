@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>paquetes</title>
+      <link>/categories/paquetes/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/paquetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>reporte</title>
       <link>/categories/reporte/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
@@ -54,15 +63,6 @@
       <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/bibliotecas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>paquetes</title>
-      <link>/categories/paquetes/</link>
-      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/paquetes/</guid>
       <description></description>
     </item>
     

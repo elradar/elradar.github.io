@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Obteniendo rutas, tiempo y distancia de viajes con Open Source Routing Machine</title>
+      <link>/2019/10/25/obteniendo-rutas-tiempo-y-distancia-de-viajes-con-open-source-routing-machine/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/25/obteniendo-rutas-tiempo-y-distancia-de-viajes-con-open-source-routing-machine/</guid>
+      <description>Agradecemos a Angie Scetta, arquitecta (UBA) y maestranda en Economía Urbana (UTDT), que nos muestra cómo usar OSRM: el paquete de R que permite estimar trayectos, tiempos y distancias de viaje a través de la grilla de calles de cualquier parte del mundo.</description>
+    </item>
+    
+    <item>
       <title>¿Existen suficientes vacantes escolares para los niños de la Villa 21-24?</title>
       <link>/2019/10/21/existen-suficientes-vacantes-escolares-para-los-ni%C3%B1os-de-la-villa-21-24/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
